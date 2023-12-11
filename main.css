@@ -1,0 +1,31 @@
+.container{
+    background-color: lightcyan;
+    align-items: center;
+    border: 1px solid lightcyan;
+    width: 500px;
+    height: 300px;
+    margin-left: 350px;
+    margin-top: 150px;
+
+    
+}
+
+#close{
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 300px;
+    padding-top: 10px;
+    text-align: center;   
+    color: darkviolet;
+}
+
+button{
+    background-color: darkviolet;
+    color: lightcyan;
+    border: 0px solid darkviolet;
+    border-radius: 15px;
+    height: 25px;
+    width: 175px;
+}
